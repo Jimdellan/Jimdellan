@@ -6,18 +6,18 @@
 
 ### Comandos de la Terminal
 
-| COMANDO | DESCRIPCIÓN |
-| ------ | ------ |
-| cd | Establece el directorio del trabajo en proceso |
-| rm | Eliminar un archivo |
-| cp| comando para copiar archivos |
-| ls | Comando para listar los archivos de la ruta |
-| whoami | Muestra el usuario activo utilizando la consola|
+| COMANDO | DESCRIPCIÓN                                         |
+| ------- | --------------------------------------------------- |
+| cd      | Navegar por el directorio                           |
+| clear   | Limpiar la terminal                                 |
+| ls      | Listar los archivos dentro del directorio           |
+| npx     | Comando de Node.js para poder crear un url del sitio|
+| alias   | Listar los alias                                    |
 
 
 ### Comandos con Alias
 
-| ALIAS | DESCRIPCIÓN |
-| ------ | ------ |
-| cl | Limpia la consola |
-| rm | Eliminar un archivo enviando a la papelera, para así poder recuperar |
+| ALIAS  | DESCRIPCIÓN                                                          |
+| ------ | -------------------------------------------------------------------- |
+| cl     | Limpia la consola                                                    |
+| rm     | Eliminar un archivo enviando a la papelera, para así poder recuperar |
